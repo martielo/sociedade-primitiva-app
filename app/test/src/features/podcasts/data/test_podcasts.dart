@@ -1,6 +1,6 @@
 import 'package:sociedade_primitiva_app/src/features/podcasts/domain/podcast.dart';
 
-const kTestPodcats = [
+const kTestPodcasts = [
   Podcast(
     id: '1',
     title: 'Sociedade Primitiva Podcast',
